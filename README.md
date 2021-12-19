@@ -12,8 +12,8 @@ Hi, I'm Dingqz 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's 
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [golang/go](https://github.com/golang/go) .
-- 🌱 I’m currently learning Linux and Python.
+- 👨🏻‍💻 I’m currently working on [kubernetes](https://github.com/kubernetes/kubernetes) .
+- 🌱 I’m currently learning Linux and go.
 - 💻 I love writing code and learn anythings about it
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Connect? Here 👉🏼[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/dqzboy/) 
