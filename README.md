@@ -7,7 +7,8 @@
 
 Hi, I'm Dingqz 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42825450/146666891-541adaf9-eda7-418c-a268-ede3ddbed41c.gif" />
+
 
 **Current Status Quo**
 
@@ -15,6 +16,8 @@ Hi, I'm Dingqz 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's 
 - 🌱 I’m currently learning Linux and Python.
 - 💻 I love writing code and learn anythings about it
 - 💬 Ask me about anything, I would like to answer.
+- 📫 Connect? Here 👉🏼[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/dqzboy/) 
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolboydqz@gmail.com)](mailto:coolboydqz@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=dqzboy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
