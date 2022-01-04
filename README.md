@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Hello, I'm Dingqz 👋
+- Hello, I'm Ding QinZheng 👋
 - ![dqzboy](https://komarev.com/ghpvc/?username=dqzboy)  ![dqzboy](https://visitor-badge.glitch.me/badge?page_id=dqzboy.profile)
 
 &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
