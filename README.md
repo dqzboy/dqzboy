@@ -38,9 +38,8 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 [![Mail Badge](https://img.shields.io/badge/-coolboydqz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coolboydqz@gmail.com)](mailto:coolboydqz@gmail.com)
 [![](https://img.shields.io/github/stars/dqzboy?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=dqzboy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/dqzboy?color=27da6b&logo=Handshake)](https://github.com/dqzboy?tab=followers)
-[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%B2%BE%E5%BD%A9%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F-71f9fe?logo=WeChat)](https://tva4.sinaimg.cn/large/008k1Yt0ly1h4nmsb1pgzj32n00yo154.jpg)
+[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%B2%BE%E5%BD%A9%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F-71f9fe?logo=WeChat)](https://www.dqzboy.com/wp-content/uploads/2022/08/1660653988-ae5747970b59fe9.png)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%B5%85%E6%97%B6%E5%85%89%E5%8D%9A%E5%AE%A2-d7b1bf?logo=Blogger)](https://www.dqzboy.com)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/dqzboy/awesome-stars-dqzboy#readme)
 
 
 
