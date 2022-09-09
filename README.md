@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Hello, I'm Ding QinZheng 👋
+- Hello, I'm QinZheng Ding 👋
 - ![dqzboy](https://komarev.com/ghpvc/?username=dqzboy)  ![dqzboy](https://visitor-badge.glitch.me/badge?page_id=dqzboy.profile)
 
 &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
@@ -15,7 +15,7 @@ width="800"  height="3">
 </div>
 
 
-Hi, I'm Dingqz 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42825450/146666891-541adaf9-eda7-418c-a268-ede3ddbed41c.gif" width="450" height="300" />
 
