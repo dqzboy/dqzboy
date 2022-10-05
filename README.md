@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Hello, I'm QinZheng Ding 👋
-- ![dqzboy](https://komarev.com/ghpvc/?username=dqzboy)  ![dqzboy](https://visitor-badge.glitch.me/badge?page_id=dqzboy.profile)
+- ![dqzboy](https://komarev.com/ghpvc/?username=dqzboy) [![](https://visitor-badge.laobi.icu/badge?page_id=dqzboy.dqzboy)](https://visitor-badge.laobi.icu/badge?page_id=dqzboy.dqzboy)
 
 &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
 <br />
