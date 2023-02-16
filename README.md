@@ -85,7 +85,7 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 
 - 🌁 [Logstash实现邮箱及机器人日志告警](https://www.dqzboy.com/8858.html) 
 
-- 😺 [通过Go写一个简易版的上传文件到OSS的工具](https://www.dqzboy.com/9587.html) 
+- 😺 [5个ChatGPT Chrome插件神器提高效率100倍](https://www.dqzboy.com/13227.html) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://www.dqzboy.com](https://www.dqzboy.com)
