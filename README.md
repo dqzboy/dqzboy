@@ -82,9 +82,9 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 
 - 🌋 [Jenkins安卓项目的流水线实践](https://www.dqzboy.com/9674.html) 
 
-- 🌁 [Logstash实现邮箱及机器人日志告警](https://www.dqzboy.com/8858.html) 
+- 🌁 [K8s Pod探针详细介绍](https://www.dqzboy.com/13735.html) 
 
-- 😺 [5个ChatGPT Chrome插件神器提高效率100倍](https://www.dqzboy.com/13227.html) 
+- 😺 [国内服务器实现科学上网并接入chatGPT](https://www.dqzboy.com/13754.html) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://www.dqzboy.com](https://www.dqzboy.com)
