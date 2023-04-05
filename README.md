@@ -82,7 +82,7 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 
 - 🌋 [Jenkins安卓项目的流水线实践](https://www.dqzboy.com/9674.html) 
 
-- 🌁 [K8s Pod探针详细介绍](https://www.dqzboy.com/13735.html) 
+- ⚡ [K8s Pod探针详细介绍](https://www.dqzboy.com/13735.html) 
 
 - 😺 [国内服务器实现科学上网并接入chatGPT](https://www.dqzboy.com/13754.html) 
 <!-- BLOG-POST-LIST:END -->
