@@ -96,7 +96,7 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 </details>
 
 
-### 📝 博客最近更新
+### 📝 Latest Blog Posts
 
 <details open>
 <summary>点击展开 ...</summary>
