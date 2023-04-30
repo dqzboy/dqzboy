@@ -75,7 +75,7 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 <code><img height="20" src="https://img.icons8.com/color/48/000000/3ds-max.png" alt="3D-Max" title="3D-Max"></code>
 <code><img height="20" src="https://img.icons8.com/fluency/48/000000/autodesk-inventor-2020.png" alt="Inventor" title="Inventor"></code>
 
-
+---
 
 ### 💻 Stats
 
@@ -95,8 +95,14 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 
 </details>
 
+---
 
 ### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
 
 <details open>
 <summary>点击展开 ...</summary>
