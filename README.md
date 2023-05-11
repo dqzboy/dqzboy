@@ -5,7 +5,7 @@
 [![](https://img.shields.io/github/followers/dqzboy?color=27da6b&logo=Handshake)](https://github.com/dqzboy?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%B5%85%E6%97%B6%E5%85%89%E5%8D%9A%E5%AE%A2-d7b1bf?logo=Blogger)](https://www.dqzboy.com)
 
-- &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
+- &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)* &nbsp; &nbsp; *[TG交流群](https://t.me/+ghs_XDp1vwxkMGU9)*
 <br />
 
 <div align="center">
