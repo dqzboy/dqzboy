@@ -76,8 +76,7 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 
 ---
 
-### 💻 Stats
-
+### 🏆 My Github Stats
 <details open>
 <summary>点击展开 ...</summary>
 
