@@ -118,6 +118,6 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 - 😺 [国内服务器实现科学上网并接入chatGPT](https://www.dqzboy.com/13754.html) 
 <!-- BLOG-POST-LIST:END -->
 
-更多内容直接点击：[https://www.dqzboy.com](https://www.dqzboy.com)
+更多内容请关注：[浅时光博客](https://www.dqzboy.com)
 
 </details>
