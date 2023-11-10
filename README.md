@@ -5,9 +5,7 @@
 - ![dqzboy](https://komarev.com/ghpvc/?username=dqzboy) [![](https://visitor-badge.laobi.icu/badge?page_id=dqzboy.dqzboy)](https://visitor-badge.laobi.icu/badge?page_id=dqzboy.dqzboy)
 [![](https://img.shields.io/github/stars/dqzboy?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=dqzboy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/dqzboy?color=27da6b&logo=Handshake)](https://github.com/dqzboy?tab=followers)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%B5%85%E6%97%B6%E5%85%89%E5%8D%9A%E5%AE%A2-d7b1bf?logo=Blogger)](https://www.dqzboy.com)
 
-- &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)* &nbsp; &nbsp; 
 <br />
 
 <div align="center">
@@ -30,8 +28,6 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 - 🌱 I’m currently learning [istio](https://github.com/istio/istio) 和 [go](https://github.com/golang/go)。
 - 💻 I love writing code and learn anythings about it
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Connect? Here 👉🏼[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/dqzboy/) 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolboydqz@gmail.com)](mailto:coolboydqz@gmail.com)
 
 ---
 
@@ -90,34 +86,5 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 
 [![](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)
 </div>
-
-</details>
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
-
-<!-- BLOG-POST-LIST:START -->
-- 🐻 [二进制部署一套高可用K8s集群](https://www.dqzboy.com/cloud/k8s) 
-
-- 🎃 [Jenkins CICD流程实现审批功能](https://www.dqzboy.com/9686.html) 
-
-- 🚀 [使用Go写一个LogAgent](https://www.dqzboy.com/10345.html) 
-
-- 🌋 [Jenkins安卓项目的流水线实践](https://www.dqzboy.com/9674.html) 
-
-- ⚡ [自建ChatGPT反向代理服务器](https://www.dqzboy.com/13935.html) 
-
-- 😺 [国内服务器实现科学上网并接入chatGPT](https://www.dqzboy.com/13754.html) 
-<!-- BLOG-POST-LIST:END -->
-
-更多内容请关注：[浅时光博客](https://www.dqzboy.com)
 
 </details>
