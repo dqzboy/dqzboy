@@ -87,4 +87,31 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 [![](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)
 </div>
 
+---
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<details open>
+<summary>点击展开 ...</summary>
+
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+
+<!-- BLOG-POST-LIST:START -->
+- 🐻 [二进制部署一套高可用K8s集群](https://www.dqzboy.com/cloud/k8s) 
+
+- 🎃 [Jenkins CICD流程实现审批功能](https://www.dqzboy.com/9686.html) 
+
+- 🚀 [使用Go写一个LogAgent](https://www.dqzboy.com/10345.html) 
+
+- 🌋 [Jenkins安卓项目的流水线实践](https://www.dqzboy.com/9674.html) 
+
+- ⚡ [自建ChatGPT反向代理服务器](https://www.dqzboy.com/13935.html) 
+
+- 😺 [国内服务器实现科学上网并接入chatGPT](https://www.dqzboy.com/13754.html) 
+<!-- BLOG-POST-LIST:END -->
+
+更多内容请关注：[浅时光博客](https://www.dqzboy.com)
+
 </details>
