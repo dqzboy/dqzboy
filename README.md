@@ -85,6 +85,8 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 [![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/dqzboy/dqzboy/main/assets/github-contribution-grid-snake.svg)
 
 [![](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)
+
+![](https://github-profile-trophy.vercel.app/?username=dqzboy&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true)
 </div>
 
 ---
