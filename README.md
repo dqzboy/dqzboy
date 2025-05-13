@@ -1,4 +1,4 @@
-### Hey <img src="https://github.com/dqzboy/dqzboy/assets/42825450/97471f55-148e-41af-a79c-63fcda189a81" width="28px">，I'm QinZheng Ding
+### Hey <img src="https://github.com/dqzboy/dqzboy/assets/42825450/97471f55-148e-41af-a79c-63fcda189a81" width="28px">，I'm Rick Ding
 
 ---
 
@@ -18,7 +18,7 @@ width="800"  height="3">
 </div>
 
 
-Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
 ---
 
