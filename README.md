@@ -95,7 +95,7 @@ Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside
 
 
 ### 📝 Latest Blog Posts
-<details open>
+<details>
 <summary>点击展开 ...</summary>
 
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
