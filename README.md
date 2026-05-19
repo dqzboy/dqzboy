@@ -92,24 +92,13 @@ Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside
 ---
 
 
-### 📝 Latest Blog Posts
-<details>
-<summary>点击展开 ...</summary>
+### ✈️ 自用机场推荐
 
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+☁️[*飞鸟云：**直连节点，hy2协议。不限设备数量。支持周期和按量付费，高性价比***](https://feiniaoyun.xyz/#/register?code=0Y1qPvtE) 
 
-<!-- BLOG-POST-LIST:START -->
-- 🐻 [构建跨平台镜像：使用Docker Buildx](https://www.dqzboy.com/16083.html) 
+👑[*魔戒：**按量不限时、IEPL专线、不限速、不限设备、低延迟，高网速***](https://mojie.co/register?aff=CG6h8Irm)
 
-- 🎃 [自建Docker镜像加速服务：加速与优化镜像管理](https://www.dqzboy.com/8709.html) 
+✅[*Teacat：**按周期、不限速、不限设备、IEPL专线，解锁ChatGPT，速度快、稳定***](https://www.teacat999.com/#/register?code=ps4sZcDa)
 
-- 🚀 [自建Hysteria 2代理：拯救你的垃圾VPS](https://www.dqzboy.com/15978.html) 
+☁️[*八戒：**流量不过期 不限速 不限设备数、低延迟，高网速***](https://bajie.one/#/register?code=uX4zUk5c) 
 
-- ⚡ [自建ChatGPT反向代理服务器](https://www.dqzboy.com/13935.html) 
-
-- 😺 [国内服务器实现科学上网并接入chatGPT](https://www.dqzboy.com/13754.html) 
-<!-- BLOG-POST-LIST:END -->
-
-更多教程可关注：[浅时光博客](https://www.dqzboy.com)
-
-</details>
