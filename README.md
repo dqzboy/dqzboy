@@ -33,7 +33,7 @@ Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside
 
 ### 🧰 Language Tools
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42825450/235350359-f5b6bebd-655c-4975-9d52-1db012d579bf.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
+<img align='right' src="https://user-images.githubusercontent.com/42825450/235350359-f5b6bebd-655c-4975-9d52-1db012d579bf.gif"  width="330" />
 
 **Languages and Frameworks**
 
@@ -93,6 +93,8 @@ Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside
 
 
 ### ✈️ 自用机场推荐
+
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="230" />
 
 ☁️[*飞鸟云：**直连节点，hy2协议。不限设备数量。支持周期和按量付费，高性价比***](https://feiniaoyun.xyz/#/register?code=0Y1qPvtE) 
 
