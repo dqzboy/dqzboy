@@ -100,7 +100,7 @@ Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside
 
 👑[*魔戒：**按量不限时、IEPL专线、不限速、不限设备、低延迟，高网速***](https://mojie.co/register?aff=CG6h8Irm)
 
-✅[*Teacat：**按周期、不限速、不限设备、IEPL专线，解锁ChatGPT，速度快、稳定***](https://www.teacat999.com/#/register?code=ps4sZcDa)
+✅[*Teacat：**按周期、不限速、不限设备、IEPL专线，解锁ChatGPT，速度快、稳定***](https://7.invite.teacat.me/signup?code=ps4sZcDa)
 
 ☁️[*八戒：**流量不过期 不限速 不限设备数、低延迟，高网速***](https://bajie.one/#/register?code=uX4zUk5c) 
 
