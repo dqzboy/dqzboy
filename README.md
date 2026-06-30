@@ -20,6 +20,8 @@ width="800"  height="3">
 
 Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
+> [Personal Resume](https://www.dqzboy.com/about/)
+
 ---
 
 ### 🏊 Current Status Quo
