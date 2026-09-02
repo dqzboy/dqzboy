@@ -100,7 +100,7 @@ Hi, I'm Rick Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside
 
 ☁️[*飞鸟云：**直连节点，hy2协议。不限设备数量。支持周期和按量付费，高性价比***](https://feiniaoyun.xyz/#/register?code=0Y1qPvtE) 
 
-👑[*魔戒：**按量不限时、IEPL专线、不限速、不限设备、低延迟，高网速***](https://mojie.co/register?aff=CG6h8Irm)
+👑[*魔戒：**按量不限时、IEPL专线、不限速、不限设备、低延迟，高网速***](https://43.129.78.33:8000/register?aff=CG6h8Irm)
 
 ☁️[*八戒：**流量不过期 不限速 不限设备数、低延迟，高网速***](https://bajie.one/#/register?code=uX4zUk5c) 
 
